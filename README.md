@@ -1,6 +1,8 @@
 # Calculator
 Hey Fellows Today I am creating a
+<br>
 Calculator using html, css, javascript
+<br>
 My name is Kankana Pandit
 Here i am creating a calculator using html,css and javascript.
 The code editor i have used for this project is vs code.
